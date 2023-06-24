@@ -2,13 +2,13 @@
 # Pull Requests
 
 - ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [Linux Mentorship 2023 | Language-Python]
-  1. #### [Added support for Nested team config](https://github.com/zowe/zowe-client-python-sdk/pull/144)
-  2. #### [Added method to create a USS file in Files Class](https://github.com/zowe/zowe-client-python-sdk/pull/50)
-  3. #### [[zos/jobs] Added method to hold/release a job](https://github.com/zowe/zowe-client-python-sdk/pull/186)
-  4. #### [[zos-jobs] Added method to change the job class](https://github.com/zowe/zowe-client-python-sdk/pull/183)
-  5. #### [[zos-jobs] Added a method to delete z/OS job ](https://github.com/zowe/zowe-client-python-sdk/pull/76)
-  6. #### [ [zos-jobs] Added a method to cancel z/OS job](https://github.com/zowe/zowe-client-python-sdk/pull/75)
-  7. #### [[zos-files] Added a method to create data set](https://github.com/zowe/zowe-client-python-sdk/pull/86)
+  1. #### [Added support for Nested team config](https://github.com/zowe/zowe-client-python-sdk/pull/144) [Priority: High]
+  2. #### [Added method to create a USS file in Files Class](https://github.com/zowe/zowe-client-python-sdk/pull/50) [Priority: High]
+  3. #### [[zos/jobs] Added method to hold/release a job](https://github.com/zowe/zowe-client-python-sdk/pull/186) [Priority: Medium]
+  4. #### [[zos-jobs] Added method to change the job class](https://github.com/zowe/zowe-client-python-sdk/pull/183) [Priority: Medium]
+  5. #### [[zos-jobs] Added a method to delete z/OS job ](https://github.com/zowe/zowe-client-python-sdk/pull/76) [Priority: Low]
+  6. #### [ [zos-jobs] Added a method to cancel z/OS job](https://github.com/zowe/zowe-client-python-sdk/pull/75) [Priority: Low]
+  7. #### [[zos-files] Added a method to create data set](https://github.com/zowe/zowe-client-python-sdk/pull/86) [Priority: Low]
 
 - ## Repo -  [activeloopai/deeplake](https://github.com/aadityasinha-dotcom/Hub) [GSOC 2022 | Language-Python]
   1. #### [Added more file formats for compression](https://github.com/activeloopai/deeplake/pull/1597)
