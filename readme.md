@@ -1,7 +1,7 @@
 
 # Pull Requests
 
-- ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [Linux Mentorship 2023 | Language-Python]
+- ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [Linux Mentorship 2023 | Language-Python, NodeJS]
   1. #### [Added support for Nested team config](https://github.com/zowe/zowe-client-python-sdk/pull/144) [Priority: High]
   2. #### [Added method to create a USS file in Files Class](https://github.com/zowe/zowe-client-python-sdk/pull/50) [Priority: High]
   3. #### [[zos/jobs] Added method to hold/release a job](https://github.com/zowe/zowe-client-python-sdk/pull/186) [Priority: Medium]
