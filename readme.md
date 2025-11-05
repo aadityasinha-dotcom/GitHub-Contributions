@@ -4,7 +4,10 @@
 - ## Repo - [zowe/zowe-cli](https://github.com/zowe/zowe-cli) [2025-Present | Language-Typescript]
   1. #### [Exposed private buildPrefix as a replacement for imperative's implementation of moment.format(...)](https://github.com/zowe/zowe-cli/pull/2478) [Priority: Low]
 
-- ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [2024-Present | Language-Python, NodeJS]
+- ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [2025 | Language-Python, NodeJS]
+  1. #### [Replaced commentjson with json5 to support block comments](https://github.com/zowe/zowe-client-python-sdk/pull/374) [Priority: Medium]
+
+- ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [2024 | Language-Python, NodeJS]
   1. #### [Turning off logger at the class-constructor level](https://github.com/zowe/zowe-client-python-sdk/pull/323) [Priority: Medium]
   2. #### [Updated tests to use context managers](https://github.com/zowe/zowe-client-python-sdk/pull/294) [Priority: Low]
   3. #### [Turned SDK APIs into context manager](https://github.com/zowe/zowe-client-python-sdk/pull/283) [Priority: Medium]
